@@ -156,3 +156,29 @@ https://www.researchgate.net/publication/224299269_Collision_detection_A_survey
 https://www.geeksforgeeks.org/collision-detection-csmacd/
 'Heart of the Andes' (1859), by Frederic Edwin Church
 
+
+
+
+1.	MVC pattern:
+ https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller - 
+2.	HOOPS/MVO Technical Overview:
+http://docs.techsoft3d.com/visualize/3df/21/2113/HoopsMVO/tech_overview/TechnicalOverview_C.html
+3.	The explanation of the scene graph term. In the lab classes, we will implement Tree node instead for a simplicity:
+https://en.wikipedia.org/wiki/Scene_graph 
+
+http://www.glfw.org/
+http://nehe.gamedev.net/tutorial/lessons_01__05/22004/
+https://glm.g-truc.net/
+https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_shading_model
+https://en.wikipedia.org/wiki/Rotation_matrix#Rotation_matrix_from_axis_and_angle
+http://www.songho.ca/opengl/gl_transform.html
+http://www.songho.ca/opengl/gl_projectionmatrix.html
+https://en.wikipedia.org/wiki/Viewing_frustum
+http://kaba.hilvi.org/homepage/blog/halfedge/halfedge.htm
+http://www.flipcode.com/archives/The_Half-Edge_Data_Structure.shtml
+https://www.graphics.rwth-aachen.de/media/papers/openmesh1.pdf
+https://www.khronos.org/files/collada_spec_1_4.pdf
+https://en.wikipedia.org/wiki/Octree
+http://planning.cs.uiuc.edu/node214.html
+https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates
+1.	https://osgart.org/stuff/object_manipulation/ 
